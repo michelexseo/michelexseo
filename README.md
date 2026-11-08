@@ -1,8 +1,8 @@
 <h1 align="center"> Hello there 👋</h1>
 
 
-### I'm Michele Perseo (you can call me Mick) and I'm a **Computer vision software engineer**
-I have been Building perception systems for robots and assistive technology: from LiDAR/camera pipelines on a Formula Student driverless car to real-time detection on smart glasses up to making a dron eland through ArUco markers detection..
+### I'm Michele Perseo (you can call me Mick) and I'm a **Computer Vision Software Engineer**
+I have been building perception systems for robots and assistive technology: from LiDAR/camera pipelines on a Formula Student driverless car to real-time detection on smart glasses up to making a drone land through ArUco markers detection.
 
 ✨ Dreaming of changing the assistive technology world  ✨
 
@@ -25,4 +25,4 @@ Python + OpenCV vision pipeline on a companion computer for autonomous precision
 ![](https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,ros,docker,androidstudio,linux,git)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/michele-perseo-59b180268) · miperseo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/michele-perseo-59b180268) 
