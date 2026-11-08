@@ -11,11 +11,19 @@ I have been building perception systems for robots and assistive technology: fro
 [![Demo](docs/demo_thesis-gif.gif)](https://github.com/michelexseo/project-aria-indoor-navigation)
 
 Meta Project Aria + Android app: real-time object detection (YOLOv11, TFLite) that guides the wearer to a target room. **mAP@0.5 0.93 · ~150 ms end-to-end on-device.**
+
 [Repo](https://github.com/michelexseo/project-aria-indoor-navigation) · [Video](https://www.youtube.com/watch?v=VixqrmUZ1rQ) · [Thesis](https://webthesis.biblio.polito.it/39925/1/tesi.pdf)
 
 ### 🛬 ArUco precision landing for PX4
 Python + OpenCV vision pipeline on a companion computer for autonomous precision landing.
-[Repo](https://github.com/michelexseo/ArUco-precision-landing): **pose estimation accuracy: 0.2 cm**
+ **pose estimation accuracy: 0.2 cm**
+
+[Repo](https://github.com/michelexseo/ArUco-precision-landing)
+
+### 🏎️ DBSCAN clustering with KD-Trees for autonomous racing
+C++ implementation of a DBSCAN clustering algorithm using KD-Trees data structures to improve performance of an autonomous racing vehicle.
+[Repo](https://github.com/michelexseo/DBSCAN-KDTree)
+
 
 ## Experience highlights
 - Led the Computer Vision & Perception division at Squadra Corse Driverless: LiDAR + RGB perception, ROS 2, sensor fusion. KD-Tree DBSCAN in C++ cut latency by 50%.
