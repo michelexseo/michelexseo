@@ -1,12 +1,28 @@
-<h1 align="center">Hi 👋, I'm Michele Perseo</h1>
-<h3 align="center">A passionate software engineer from Italy with passion in computer vision, robotics and music</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/michele-perseo-59b180268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/michele-perseo-59b180268" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+<h1 align="center"> Hello there 👋</h1>
 
 
+### I'm Michele Perseo (you can call me Mick) and I'm a **Computer vision software engineer**
+I have been Building perception systems for robots and assistive technology: from LiDAR/camera pipelines on a Formula Student driverless car to real-time detection on smart glasses up to making a dron eland through ArUco markers detection..
+
+✨ Dreaming of changing the assistive technology world  ✨
+
+## Featured projects
+### 🕶️ Indoor navigation for smart glasses (MSc thesis)
+[![Demo](docs/demo_thesis-gif.gif)](https://github.com/michelexseo/project-aria-indoor-navigation)
+
+Meta Project Aria + Android app: real-time object detection (YOLOv11, TFLite) that guides the wearer to a target room. **mAP@0.5 0.93 · ~150 ms end-to-end on-device.**
+[Repo](https://github.com/michelexseo/project-aria-indoor-navigation) · [Video](https://www.youtube.com/watch?v=VixqrmUZ1rQ) · [Thesis](https://webthesis.biblio.polito.it/39925/1/tesi.pdf)
+
+### 🛬 ArUco precision landing for PX4
+Python + OpenCV vision pipeline on a companion computer for autonomous precision landing.
+[Repo](https://github.com/michelexseo/ArUco-precision-landing): **pose estimation accuracy: 0.2 cm**
+
+## Experience highlights
+- Led the Computer Vision & Perception division at Squadra Corse Driverless: LiDAR + RGB perception, ROS 2, sensor fusion. KD-Tree DBSCAN in C++ cut latency by 50%.
+- Developed a precision landing algorithm for a PX4 based flight controller, using MAVlink route, openCV and a raspberry pi.
+
+## Stack
+![](https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,ros,docker,androidstudio,linux,git)
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/michele-perseo-59b180268) · miperseo@gmail.com
