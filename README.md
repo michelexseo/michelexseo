@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there 👋</h1>
+<h1 align="center"> Hello there!</h1>
 
 
 ### I'm Michele Perseo (you can call me Mick) and I'm a **Computer Vision Software Engineer**
